@@ -1,2 +1,2 @@
 # MRW-rolling-regression
-Conference paper - rolling Mankiw-Romer-Weil (1992) regression over time (Stata)
+Rolling Mankiw-Romer-Weil (1992) regression over time - conference paper (2020)
